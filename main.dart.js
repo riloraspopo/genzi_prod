@@ -97923,7 +97923,7 @@ case 2:p=q.c
 if(p!=null)p.a6(t.J).f.eC(B.a0X)
 return A.p(null,r)}})
 return A.q($async$Ar,r)},
-G(a){var s,r=this,q=null,p=A.fV(q,q,q,!0,q,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.a7c,q,q,q,1,q,!0),o=t.p,n=A.aRQ(A.aM(A.b([B.aj,A.cw(A.b([A.cJ(A.aRv(B.NS,r.y,B.PN,new A.a79(r),t.Pt),1),B.jY,A.cJ(A.VT(r.r,B.NV,B.k3,!1,new A.a7a()),1)],o),B.p,B.o,B.n,0),B.aj,A.VT(r.e,B.NT,B.k3,!1,new A.a7b()),B.aj,A.VT(r.f,B.NU,B.k3,!1,new A.a7c()),B.aj,A.aRv(B.NR,r.z,B.QX,new A.a7d(r),t.i),B.aj,A.o3(!1,B.a6M,q,q,q,q,q,q,r.gacT(),q,q)],o),B.p,B.o,B.n,B.q),r.d)
+G(a){var s,r=this,q=null,p=A.fV(q,q,q,!0,q,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.a7c,q,q,q,1,q,!0),o=t.p,n=A.aRQ(A.aM(A.b([B.aj,A.cw(A.b([A.cJ(A.aRv(B.NS,r.y,B.PN,new A.a79(r),t.Pt),1),B.jY,A.cJ(A.VT(r.r,B.NV,B.k3,!1,new A.a7a()),1)],o),B.p,B.o,B.n,0),B.aj,A.VT(r.e,B.NT,B.k3,!1,new A.a7b()),B.aj,A.VT(r.f,B.NU,B.k3,!1,new A.a7c()),B.aj,A.aRv(B.NR,r.z,B.QX,new A.a7d(r),t.i),B.aj,A.o3(!1,B.a6L,q,q,q,q,q,q,r.gacT(),q,q)],o),B.p,B.o,B.n,B.q),r.d)
 if(r.x)s=B.cC
 else{s=r.w.length
 s=s===0?B.I3:A.l9(q,new A.a7e(r),s,q,q,B.Tg,!1,B.O,!0)}return A.fn(p,q,new A.aD(B.ai,A.kc(A.aM(A.b([n,B.e5,B.a7y,B.aB,s],o),B.br,B.o,B.n,B.q),q,B.O),q),q,q)},
@@ -98088,7 +98088,7 @@ A.awu.prototype={
 $0(){A.aP8(new A.awt(),this.a,t.z)},
 $S:0}
 A.awt.prototype={
-$1(a){return A.aLJ(A.b([A.y8(B.a79,new A.aws(a),null)],t.p),B.a7e,B.a6R)},
+$1(a){return A.aLJ(A.b([A.y8(B.a79,new A.aws(a),null)],t.p),B.a7e,B.a6Q)},
 $S:142}
 A.aws.prototype={
 $0(){A.bP(this.a,!1).hB(null)
@@ -98174,7 +98174,7 @@ B.b.S(i,A.b([B.jZ,A.cu(q,A.QL(A.qM(A.aT(8),A.e0(B.M,A.b([A.aMF(n+a.h(0,p)+m,new 
 s=A.b([B.ZH,B.aB,A.a2(J.ay(a.h(0,r)),q,q,q,q,q,q)],j)
 if(a.h(0,o)!=null)B.b.S(s,A.b([B.aB,A.a2(this.T6(a.h(0,o)),q,q,q,A.be(q,q,B.a5,q,q,q,q,q,q,q,q,12,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],j))
 B.b.S(i,A.b([B.aj,A.ac(q,A.aM(s,B.ah,B.o,B.n,B.q),B.j,q,q,new A.ax(B.er,q,q,k,q,q,B.u),q,q,q,B.cH,q,q,q)],j))}return A.jy(A.aM(A.b([new A.aD(B.ai,A.aM(i,B.ah,B.o,B.n,B.q),q)],j),B.br,B.o,B.n,B.q),q,B.qr,q)},
-G(a){var s,r=this,q=null,p=A.fV(q,q,q,!0,q,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.a6L,q,q,q,1,q,!0)
+G(a){var s,r=this,q=null,p=A.fV(q,q,q,!0,q,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.a6K,q,q,q,1,q,!0)
 if(r.d)s=B.cC
 else s=J.lY(r.e)?A.cl(A.aM(A.b([A.cm(B.mn,B.bJ,q,64),B.aj,A.a2("Belum ada riwayat pengaduan",q,q,q,A.be(q,q,B.a5,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],t.p),B.p,B.aE,B.n,B.q),q,q):A.amO(A.l9(q,new A.a9_(r),J.bM(r.e),q,B.ai,q,!1,B.O,!1),q,q,r.galR())
 return A.fn(p,q,s,q,q)}}
@@ -98425,7 +98425,7 @@ A.az5.prototype={
 $1(a){return this.a.SD(!0,a.a)},
 $S:246}
 A.az4.prototype={
-$3(a,b,c){var s=null,r=b.length!==0,q=r?B.fB:B.fK,p=A.aT(12),o=A.jw(B.bM,r?3:2),n=A.ac(s,B.a6J,B.j,s,s,s,s,s,s,B.aY,s,s,s),m=this.a.z,l=A.Y(m).i("a8<1,ek>")
+$3(a,b,c){var s=null,r=b.length!==0,q=r?B.fB:B.fK,p=A.aT(12),o=A.jw(B.bM,r?3:2),n=A.ac(s,B.a6I,B.j,s,s,s,s,s,s,B.aY,s,s,s),m=this.a.z,l=A.Y(m).i("a8<1,ek>")
 r=A.Z(new A.a8(m,new A.az3(),l),l.i("aj.E"))
 return A.ac(s,A.aM(A.b([n,A.cJ(new A.aD(B.aY,A.aNQ(r),s),1)],t.p),B.p,B.o,B.n,B.q),B.j,s,s,new A.ax(q,s,o,p,s,s,B.u),s,s,B.iL,s,s,s,s)},
 $S:247}
@@ -98636,7 +98636,7 @@ l===$&&A.a()
 k=B.i.cW(0.15)
 j=t.aW
 i=t.Oj
-s=A.b([new A.GE(p,r,new A.CR(A.ac(g,A.e0(B.b9,A.b([o,n,A.fJ(40,new A.eF(m,!1,A.V4(A.aM(A.b([A.cw(A.b([A.ac(g,A.aS1(f,B.kU),B.j,g,g,new A.ax(k,g,g,g,g,g,B.aX),g,50,g,B.qx,g,g,50),B.hz,A.cJ(A.aM(A.b([A.a2(h.agm(),g,g,g,B.a39,g,g),B.k_,A.cw(A.b([B.a6I,new A.GK(g),A.a2(h.CW,g,g,g,A.be(g,g,B.a_,g,g,g,g,g,g,g,g,14,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],s),B.p,B.o,B.n,0)],s),B.ah,B.o,B.n,B.q),1)],s),B.p,B.o,B.n,0),B.jZ,A.cw(A.b([A.cJ(A.wf(new A.aAs(h),h.d,j),1),B.hz,A.cJ(A.wf(new A.aAt(h),h.e,i),1),B.hz,A.cJ(A.wf(new A.aAu(h),h.f,t.S),1),B.hz,A.cJ(h.Aa(B.bM,B.MK,new A.aAv(a),"Mini\nGames","3"),1)],s),B.p,B.o,B.n,0)],s),B.ah,B.o,B.n,B.q),l,g,!0),g),g,g,24,24,60,g)],s),B.t,B.aK,g),B.j,g,g,new A.ax(g,g,g,g,g,new A.fk(B.ca,B.kK,B.bh,q,g,g),B.u),g,g,g,g,g,g,g),g),B.h8,300,!1,!0,g),new A.pt(new A.aD(B.c1,A.aM(A.b([B.a6F,B.aj,h.H1(B.es,B.MS,new A.aAw(a),B.lg,"Belajar sambil bermain","Mini Games"),B.aj,h.H1(B.ii,B.MO,new A.aAx(a),B.pV,"Tonton video edukasi menarik","Video Pembelajaran"),B.aj,h.H1(B.es,B.ML,new A.aAy(a),B.lg,"Cek status berat badan idealmu","Kalkulator BMI")],s),B.ah,B.o,B.n,B.q),g),g),new A.pt(new A.aD(B.qu,A.aM(A.b([A.cw(A.b([B.a75],s),B.p,B.dm,B.n,0),B.aj,A.wf(new A.aAz(h),h.d,j)],s),B.ah,B.o,B.n,B.q),g),g),new A.pt(new A.aD(B.c1,A.aM(A.b([B.a7p,B.aj,A.wf(new A.aAr(),h.e,i)],s),B.ah,B.o,B.n,B.q),g),g),new A.pt(new A.aD(B.c1,A.aM(A.b([B.a6T,B.a1i],s),B.ah,B.o,B.n,B.q),g),g),B.a0R],s)
+s=A.b([new A.GE(p,r,new A.CR(A.ac(g,A.e0(B.b9,A.b([o,n,A.fJ(40,new A.eF(m,!1,A.V4(A.aM(A.b([A.cw(A.b([A.ac(g,A.aS1(f,B.kU),B.j,g,g,new A.ax(k,g,g,g,g,g,B.aX),g,50,g,B.qx,g,g,50),B.hz,A.cJ(A.aM(A.b([A.a2(h.agm(),g,g,g,B.a39,g,g),B.k_,A.cw(A.b([B.a6S,new A.GK(g),A.a2(h.CW,g,g,g,A.be(g,g,B.a_,g,g,g,g,g,g,g,g,14,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],s),B.p,B.o,B.n,0)],s),B.ah,B.o,B.n,B.q),1)],s),B.p,B.o,B.n,0),B.jZ,A.cw(A.b([A.cJ(A.wf(new A.aAs(h),h.d,j),1),B.hz,A.cJ(A.wf(new A.aAt(h),h.e,i),1),B.hz,A.cJ(A.wf(new A.aAu(h),h.f,t.S),1),B.hz,A.cJ(h.Aa(B.bM,B.MK,new A.aAv(a),"Mini\nGames","3"),1)],s),B.p,B.o,B.n,0)],s),B.ah,B.o,B.n,B.q),l,g,!0),g),g,g,24,24,60,g)],s),B.t,B.aK,g),B.j,g,g,new A.ax(g,g,g,g,g,new A.fk(B.ca,B.kK,B.bh,q,g,g),B.u),g,g,g,g,g,g,g),g),B.h8,300,!1,!0,g),new A.pt(new A.aD(B.c1,A.aM(A.b([B.a6F,B.aj,h.H1(B.es,B.MS,new A.aAw(a),B.lg,"Belajar sambil bermain","Mini Games"),B.aj,h.H1(B.ii,B.MO,new A.aAx(a),B.pV,"Tonton video edukasi menarik","Video Pembelajaran"),B.aj,h.H1(B.es,B.ML,new A.aAy(a),B.lg,"Cek status berat badan idealmu","Kalkulator BMI")],s),B.ah,B.o,B.n,B.q),g),g),new A.pt(new A.aD(B.qu,A.aM(A.b([A.cw(A.b([B.a75],s),B.p,B.dm,B.n,0),B.aj,A.wf(new A.aAz(h),h.d,j)],s),B.ah,B.o,B.n,B.q),g),g),new A.pt(new A.aD(B.c1,A.aM(A.b([B.a7p,B.aj,A.wf(new A.aAr(),h.e,i)],s),B.ah,B.o,B.n,B.q),g),g),new A.pt(new A.aD(B.c1,A.aM(A.b([B.a6T,B.a1i],s),B.ah,B.o,B.n,B.q),g),g),B.a0R],s)
 return A.aQi(A.fn(g,B.fG,A.amO(new A.Pt(s,B.O,!1,h.w,g,g,g,!1,g,0,g,g,B.hB,B.A,g,g,B.t,B.ap,g),B.h8,h.z,h.gapH()),e,g),B.a1z,t.lu)}}
 A.aAB.prototype={
 $0(){this.a.CW=this.b.c},
@@ -98976,7 +98976,7 @@ AL(){var s=this.e/this.gkm().length*100
 if(s>=80)return B.bM
 else if(s>=60)return B.c4
 else return B.be},
-G(a){var s,r,q,p,o,n,m=this,l=null,k=A.fV(l,l,l,!0,B.fv,l,1,l,l,0,!1,l,!1,l,B.dL,l,l,!0,l,l,l,l,l,B.a6P,l,l,l,1,l,!0),j=A.b([B.fK,B.i],t.d)
+G(a){var s,r,q,p,o,n,m=this,l=null,k=A.fV(l,l,l,!0,B.fv,l,1,l,l,0,!1,l,!1,l,B.dL,l,l,!0,l,l,l,l,l,B.a6O,l,l,l,1,l,!0),j=A.b([B.fK,B.i],t.d)
 if(m.w){if(m.e>=m.gkm().length*0.8)s="\ud83c\udfc6"
 else s=m.e>=m.gkm().length*0.6?"\ud83e\udd48":"\ud83e\udd17"
 s=A.a2(s,l,l,l,B.E8,l,l)
@@ -99151,7 +99151,7 @@ s.e=!1},
 $S:0}
 A.aoJ.prototype={
 $1(a){var s=null
-return A.aLJ(A.b([A.y8(B.a6O,new A.aoH(a),s),A.y8(B.a7u,new A.aoI(a),A.VN(s,s,s,s,s,s,s,s,s,B.be,s,s,s,s,s,s,s,s,s,s,s))],t.p),B.a6X,B.a7t)},
+return A.aLJ(A.b([A.y8(B.a6N,new A.aoH(a),s),A.y8(B.a7u,new A.aoI(a),A.VN(s,s,s,s,s,s,s,s,s,B.be,s,s,s,s,s,s,s,s,s,s,s))],t.p),B.a6X,B.a7t)},
 $S:142}
 A.aoH.prototype={
 $0(){return A.bP(this.a,!1).hB(!1)},
@@ -109462,8 +109462,8 @@ B.I5=new A.ej(B.M,null,null,B.po,null)
 B.Ee=new A.v(!0,B.i,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a7A=new A.aW("No video available",null,B.Ee,null,null,null,null,null,null)
 B.I6=new A.ej(B.M,null,null,B.a7A,null)
-B.a6K=new A.aW("Tidak ada pertanyaan survei",null,null,null,null,null,null,null,null)
-B.I7=new A.ej(B.M,null,null,B.a6K,null)
+B.a6J=new A.aW("Tidak ada pertanyaan survei",null,null,null,null,null,null,null,null)
+B.I7=new A.ej(B.M,null,null,B.a6J,null)
 B.r5=new A.b5(57911,"MaterialIcons",null,!1)
 B.Nc=new A.cv(B.r5,42,B.i,null,null)
 B.pl=new A.ej(B.M,null,null,B.Nc,null)
@@ -110339,8 +110339,8 @@ B.PM=s([B.Gg],t.V)
 B.mB=s([0.25,0.5,0.75,1,1.25,1.5,1.75,2],t.n)
 B.a6U=new A.aW("Laki-laki",null,null,null,null,null,null,null,null)
 B.KD=new A.fB(B.eK,B.a6U,B.cT,null,t.yI)
-B.a6N=new A.aW("Perempuan",null,null,null,null,null,null,null,null)
-B.KB=new A.fB(B.mj,B.a6N,B.cT,null,t.yI)
+B.a6M=new A.aW("Perempuan",null,null,null,null,null,null,null,null)
+B.KB=new A.fB(B.mj,B.a6M,B.cT,null,t.yI)
 B.PN=s([B.KD,B.KB],A.av("E<fB<mh>>"))
 B.DI=new A.GU(0,"zoomBackground")
 B.rF=s([B.DI],A.av("E<GU>"))
@@ -110348,10 +110348,10 @@ B.a1k=new A.H1(0,"left")
 B.a1l=new A.H1(1,"right")
 B.PO=s([B.a1k,B.a1l],A.av("E<H1>"))
 B.a5D=new A.v(!0,B.dn,null,null,null,null,16,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a6Q=new A.aW("\ud83c\udf1f Manfaat Bermain Game Edukatif:",null,B.a5D,null,null,null,null,null,null)
+B.a6P=new A.aW("\ud83c\udf1f Manfaat Bermain Game Edukatif:",null,B.a5D,null,null,null,null,null,null)
 B.a4k=new A.v(!0,B.W,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a7a=new A.aW("\u2022 Meningkatkan kemampuan berpikir\n\u2022 Belajar sambil bermain\n\u2022 Mengembangkan logika dan kreativitas\n\u2022 Menambah pengetahuan dengan cara menyenangkan",null,B.a4k,B.d7,null,null,null,null,null)
-B.PP=s([B.a6Q,B.aB,B.a7a],t.p)
+B.PP=s([B.a6P,B.aB,B.a7a],t.p)
 B.aL=new A.Hh(0,"upstream")
 B.PR=s([B.aL,B.l],A.av("E<Hh>"))
 B.bu=new A.Hl(0,"rtl")
@@ -111928,8 +111928,8 @@ B.a0V=new A.kd(3,"hide")
 B.abg=new A.kd(4,"remove")
 B.DE=new A.kd(5,"timeout")
 B.a0W=new A.xU(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a6S=new A.aW("Data berhasil dihapus",null,null,null,null,null,null,null,null)
-B.a0X=new A.iu(B.a6S,null,null,null,null,null,null,null,null,null,null,null,null,B.aO,null,null,null,B.t,null)
+B.a6R=new A.aW("Data berhasil dihapus",null,null,null,null,null,null,null,null)
+B.a0X=new A.iu(B.a6R,null,null,null,null,null,null,null,null,null,null,null,null,B.aO,null,null,null,B.t,null)
 B.a6G=new A.aW("Pengaduan berhasil dikirim",null,null,null,null,null,null,null,null)
 B.a0Y=new A.iu(B.a6G,null,null,null,null,null,null,null,null,null,null,null,null,B.aO,null,null,null,B.t,null)
 B.a7b=new A.aW("Mohon jawab semua pertanyaan",null,null,null,null,null,null,null,null)
@@ -112354,13 +112354,13 @@ B.o7=new A.aW("Main Lagi",null,B.k7,null,null,null,null,null,null)
 B.k6=new A.v(!0,B.W,null,null,null,null,22,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a6F=new A.aW("Aksi Cepat",null,B.k6,null,null,null,null,null,null)
 B.a6H=new A.aW("Kirim Pengaduan",null,B.o5,null,null,null,null,null,null)
-B.a6I=new A.aW("Mari belajar bersama hari ini!",null,B.o3,null,null,null,null,null,null)
-B.a6J=new A.aW("\ud83e\udd57 Makanan Sehat",null,B.E6,B.ad,null,null,null,null,null)
-B.a6L=new A.aW("Riwayat Pengaduan",null,null,null,null,null,null,null,null)
-B.a6M=new A.aW("Hitung BMI",null,null,null,null,null,null,null,null)
-B.a6O=new A.aW("Batal",null,null,null,null,null,null,null,null)
-B.a6P=new A.aW("Kuis Makanan Bergizi",null,B.e9,null,null,null,null,null,null)
-B.a6R=new A.aW("Tentang Chat AI",null,null,null,null,null,null,null,null)
+B.a6I=new A.aW("\ud83e\udd57 Makanan Sehat",null,B.E6,B.ad,null,null,null,null,null)
+B.a6K=new A.aW("Riwayat Pengaduan",null,null,null,null,null,null,null,null)
+B.a6L=new A.aW("Hitung BMI",null,null,null,null,null,null,null,null)
+B.a6N=new A.aW("Batal",null,null,null,null,null,null,null,null)
+B.a6O=new A.aW("Kuis Makanan Bergizi",null,B.e9,null,null,null,null,null,null)
+B.a6Q=new A.aW("Tentang Chat AI",null,null,null,null,null,null,null,null)
+B.a6S=new A.aW("Mari belajar bersama hari ini..!",null,B.o3,null,null,null,null,null,null)
 B.a6T=new A.aW("Tips Belajar",null,B.k6,null,null,null,null,null,null)
 B.a6V=new A.aW("Coba Lagi",null,null,null,null,null,null,null,null)
 B.a6W=new A.aW("Download Video",null,null,null,null,null,null,null,null)
